@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andredrd
-- 👀 I’m interested in Data Science & Analytics
-- 🌱 I’m currently learning R and Python
+- 👀 I’m interested in Data Science & Analytics and JS
+- 🌱 I’m currently learning R and JS
 - 📫 How to reach me: andremesquiati@hotmail.com // mesquiati.andre@outlook.com
 
 <!---
